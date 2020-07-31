@@ -4,6 +4,7 @@ The project is based on the official implementation [google/automl](https://gith
 and the [qubvel/efficientnet](https://github.com/qubvel/efficientnet). 
 
 ## About pretrained weights
+*Brian here 
 * The pretrained EfficientNet weights on imagenet are downloaded from [Callidior/keras-applications/releases](https://github.com/Callidior/keras-applications/releases)
 * The pretrained EfficientDet weights on coco are converted from the official release [google/automl](https://github.com/google/automl).
 
